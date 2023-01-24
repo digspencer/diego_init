@@ -5,7 +5,7 @@
 
 <h1> 
   
-  <img src="https://ik.imagekit.io/hhzsmcsnr/giphy.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1674582135129" witd="100px" height="100px"> 
+  <img src="https://ik.imagekit.io/hhzsmcsnr/giphy.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1674582135129" witd="150px" height="150px"> 
   
 </h1>
 
