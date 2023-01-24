@@ -1,6 +1,12 @@
 <h1> Hello World! </h1>
 
+
+
 <div>
+Eu sou o Diego Paulino e estou iniciando no mundo da programação. 🚀 <br>
+<div>
+<br>
+</div>
 - 💻 Atualmente estou estudando JavaScript, HTML e CSS. <br>
 - ⚡ Mentorado da DesenvolvendoMe.
 </div>
