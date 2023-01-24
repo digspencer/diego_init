@@ -1,7 +1,7 @@
 <h1> Seja </h1>
 
 
-- 💬 Atualmente estou estudando javaScript, HTML e CSS.
+- 💬 Atualmente estou estudando JavaScript, HTML e CSS.
 - ♂ Pronomes: Ele/Dele
 
 <h1> 
