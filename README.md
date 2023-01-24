@@ -1,7 +1,9 @@
-### Hi there 👋
+<h1> Olá Mundo. </h1>
+
+- 🌱 I’m currently learning javaScript, HTML and CSS. ![WebDeveloperMycrxnGIF](https://user-images.githubusercontent.com/121320615/214349414-4cf4a154-1960-43ec-a6f3-916e55f601b5.gif)
+
 
 <!--
-**digspencer/digspencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
