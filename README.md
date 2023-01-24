@@ -2,7 +2,7 @@
 
 
 - 💻 Atualmente estou estudando JavaScript, HTML e CSS.
-- Mentorado da DesenvolvendoMe.
+- ⚡ Mentorado da DesenvolvendoMe.
 
 <h1> 
   
